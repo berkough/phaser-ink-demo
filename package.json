@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "inkjs": "^2.2.0",
+    "phaser-ce": "^2.19.2"
+  }
+}

@@ -15,7 +15,7 @@ Demo.Game.prototype = {
 		// set up the style for the text
 		this.textStyle = {
 			fill: "#ffffff",
-			font: "16px Arial",
+			font: "16px Mono",
 			align: "left",
 			wordWrap: true,
 			wordWrapWidth: 620

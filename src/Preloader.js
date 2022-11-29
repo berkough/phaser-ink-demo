@@ -4,10 +4,10 @@ Demo.Preloader.prototype = {
 
 	preload: function () {
 		// load story json
-		this.load.json("story", "ink/phaser-ink-demo.json");
+		this.load.json("story", "assets/story/test.json");
 		
 		// load images
-		this.load.spritesheet("button", "assets/buttons.png", 620, 26);
+		this.load.spritesheet("button", "assets/images/buttons.png", 620, 26);
 	},
 
 	create: function () {
